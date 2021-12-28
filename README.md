@@ -74,16 +74,16 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amr1515/"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Amr1515"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/MoroElkhateer/"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amr1515/"><img alt="Linkedin" title="Amr Khaled Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Amr1515"><img alt="Github" title="Amr Khaled Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/MoroElkhateer/"><img alt="Facebook" title="Amr Khaled FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:moroamr2005@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/MoroElkhateer"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="https://twitter.com/MoroAmr1515"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:moroamr2005@gmail.com"><img alt="Gmail" title="Amr Khaled Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/MoroElkhateer"><img alt="Telegram" title="Amr Khaled Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://twitter.com/MoroAmr1515"><img alt="Twitter" title="Amr Khaled Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://3mr5aled.netlify.app/"><img alt="Website" title="Amr Khaled Website" src="https://img.shields.io/twitter/url?color=cyan&label=My%20Website&logo=Microsoft%20Edge&logoColor=cyan&style=for-the-badge&url=https%3A%2F%2F3mr5aled.netlify.app%2F"></a>
 </p>
-
 ------
 [Amr1515](https://github.com/Amr1515)
 Last Edited on - 20/11/2021

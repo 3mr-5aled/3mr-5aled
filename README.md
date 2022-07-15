@@ -85,5 +85,5 @@
 <a href="https://3mr5aled.netlify.app/"><img alt="Website" title="Amr Khaled Website" src="https://img.shields.io/twitter/url?label=My%20Website&logo=Microsoft%20Edge&logoColor=cyan&style=for-the-badge&url=https%3A%2F%2F3mr5aled.netlify.app%2F"></a>
 </p>
 ------
-[Amr1515](https://github.com/Amr1515)
+[Amr1515](https://github.com/3mr-5aled)
 Last Edited on - 8/4/2022

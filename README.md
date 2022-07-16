@@ -30,16 +30,11 @@
 
 
 ## Github Stats
-<div>
-	
+
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&&show_icons=true&count_private=true&theme=github_dark">
 	
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=3mr-5aled&theme=dark">
 	
-</div>
-
-
-----------------------------------------------------------------------------------
 
 ## Programming Languages
 

@@ -1,4 +1,7 @@
-## Who am I?
+ <a href="https://app.daily.dev/3mr5aled"><img src="https://api.daily.dev/devcards/f56e083a43464fbe9926244094772702.png?r=t82" width="325" align="right" alt="Amr Khaled's Dev Card"/></a>
+
+<div align="left">
+  ## Who am I?
 
  ```python
   class WhoAmI:
@@ -21,7 +24,7 @@
 		FinishMyProjects()
 	
  ```
-
+</div>
  
 ## Github Stats
 

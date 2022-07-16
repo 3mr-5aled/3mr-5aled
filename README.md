@@ -1,6 +1,6 @@
 ## Who am I?
 
- <a href="https://app.daily.dev/3mr5aled"><img src="https://api.daily.dev/devcards/f56e083a43464fbe9926244094772702.png?r=t82" width="300" align="right" alt="Amr Khaled's Dev Card"/></a>
+ <a href="https://app.daily.dev/3mr5aled"><img src="https://api.daily.dev/devcards/f56e083a43464fbe9926244094772702.png?r=t82" width="265" align="right" alt="Amr Khaled's Dev Card"/></a>
 
 <div align="left">
 
@@ -30,9 +30,8 @@
  
 ## Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&&show_icons=true&count_private=true&theme=github_dark">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3mr-5aled&theme=dark)](https://git.io/streak-stats)
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&&show_icons=true&count_private=true&theme=github_dark">
+<img align="right" width"400" src="https://github-readme-streak-stats.herokuapp.com?user=3mr-5aled&theme=dark" herf="https://git.io/streak-stats">
 
 ## Programming Languages
 

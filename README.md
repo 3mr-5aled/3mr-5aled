@@ -1,99 +1,37 @@
-## Who am I?
+<h1 align="center">Hi 👋, I'm Amr Khaled</h1>
+<h3 align="center">A passionate frontend developer and designer from Egypt</h3>
 
-<a href="https://app.daily.dev/3mr5aled"><img src="https://api.daily.dev/devcards/f56e083a43464fbe9926244094772702.png?r=1s0" width="265" align="right" alt="Amr Khaled's Dev Card"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3mr-5aled&label=Profile%20views&color=0e75b6&style=flat-square" alt="3mr-5aled" /> </p>
 
-<div align="left">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3mr-5aled" alt="3mr-5aled" /></a> </p>
 
+- 🔭 I’m currently working on [Quota calc](https://quotacalc.netlify.app/)
 
- ```python
-  class WhoAmI:
-    user = 'Amr Khaled'
-	current_edu = "High School"
-    currently_learning = "Javascript"
-    fun_fact = "I don't eat cheese"
-	hobbies = [
-				'Reading',
-                         'Football',
-			 	'Discovering',
-				'Action Movies'
-			]
-	
-	def getCity():
-		return Cairo_Egypt()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
-	
- ```
-</div>
+- 🌱 I’m currently learning **Javscript**
 
+- 👨‍💻 All of my projects are available at [https://3mr5aled.netlify.app/](https://3mr5aled.netlify.app/)
 
-## Github Stats
+- 💬 Ask me about **HTML , CSS , Python**
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&&show_icons=true&count_private=true&theme=github_dark">
-	
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=3mr-5aled&theme=dark">
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 📫 How to reach me **moroamr2005@gmail.com**
 
-## Programming Languages
+- 📄 Know about my experiences [https://www.linkedin.com/in/3mr5aled/](https://www.linkedin.com/in/3mr5aled/)
 
-<p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/PYTHON%20-%23000000.svg?logo=python&logoColor=cyan"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23000000.svg?logo=html5&logoColor=orange"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23000000.svg?logo=css3&logoColor=blue"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23000000.svg?logo=javascript&logoColor=yellow"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+- ⚡ Fun fact **I don't like cheese**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/3mr5aled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="3mr5aled" height="30" width="40" /></a>
+<a href="https://twitter.com/3mr5aledoffcial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3mr5aledoffcial" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/3mr5aled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3mr5aled" height="30" width="40" /></a>
+<a href="https://fb.com/3mr5aledoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3mr5aledoffical" height="30" width="40" /></a>
 </p>
 
-## Frameworks and Libraries
-<p>
-   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%23000000?logo=react&logoColor=cyan"></a>
-   <a href="#"><img alt="Nodejs" src="https://img.shields.io/badge/nodejs-%23000000.svg?logo=Node.js&logoColor=green"></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Operating Systems
-<p>
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-%23000000?logo=windows&logoColor=blue"></a>
-	<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-%23000000?logo=android&logoColor=green"></a>
-	
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3mr-5aled&show_icons=true&theme=dracula&locale=en&layout=compact" alt="3mr-5aled" /></p>
 
-## Browsers
-<p>
-	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-%23000000?logo=Google-Chrome&logoColor=yellow"></a>
-	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-%23000000?logo=Microsoft-edge&logoColor=blue"></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&show_icons=true&theme=dracula&locale=en" alt="3mr-5aled" /></p>
 
-## Databases and Cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23000000.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS%20-%23000000.svg?logo=amazonaws&logoColor=white"></a>
-
-</p> 
-
-## Software and Tools
-<p>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23000000.svg?logo=git&logoColor=orange"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23000000.svg?logo=visual-studio-code&logoColor=blue"></a>
-</p>
-
-## Connect with Me
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/3mr5aled/"><img alt="Linkedin" title="Amr Khaled Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/3mr-5aled"><img alt="Github" title="Amr Khaled Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/3mr5aledoffical"><img alt="Facebook" title="Amr Khaled FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
- </p>
- <p align="center">
-  <a href="mailto:moroamr2005@gmail.com"><img alt="Gmail" title="Amr Khaled Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/offical3mr5aled"><img alt="Telegram" title="Amr Khaled Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="https://twitter.com/3mr5aledoffical"><img alt="Twitter" title="Amr Khaled Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://3mr5aled.netlify.app/"><img alt="Website" title="Amr Khaled Website" src="https://img.shields.io/twitter/url?label=My%20Website&logo=Microsoft%20Edge&logoColor=cyan&style=for-the-badge&url=https%3A%2F%2F3mr5aled.netlify.app%2F"></a>
-</p>
-------
-[3mr5aled](https://github.com/3mr-5aled)
-Last Edited on - 8/4/2022
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3mr-5aled&theme=dark" alt="3mr-5aled" /></p>

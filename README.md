@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h3 align="center">A passionate frontend developer and designer from Egypt</h3>
 
+
+----
+
 <div align="left">
   <a href="https://twitter.com/3mr5aledoffical">
     <img
@@ -41,10 +44,13 @@
 
 </div>
 
+----
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,arduino,vscode,netlify,github&perline=4)](https://skillicons.dev)
 
+----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3mr-5aled&theme=transparent&show_icons=true)
 

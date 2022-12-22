@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **HTML , CSS , Python**
 
-- 📫 How to reach me **moroamr2005@gmail.com**
+- 📫 How to reach me [here](https://3mr5aled.netlify.app/#contact)
 
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/3mr5aled/)
 

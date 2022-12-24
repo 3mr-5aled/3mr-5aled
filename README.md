@@ -30,11 +30,11 @@
 
 - 🔭 I’m currently working on [Quota calc](https://quotacalc.netlify.app/)
 
-- 🌱 I’m currently learning **Javscript**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [My Website](https://3mr5aled.netlify.app/)
 
-- 💬 Ask me about **HTML , CSS , Python**
+- 💬 Ask me about **HTML , CSS , Javascript**
 
 - 📫 How to reach me [here](https://3mr5aled.netlify.app/#contact)
 

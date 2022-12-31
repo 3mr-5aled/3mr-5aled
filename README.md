@@ -5,18 +5,6 @@
 ----
 
 <div align="left">
-  <a href="https://twitter.com/3mr5aledoffical">
-    <img
-      src="https://img.shields.io/twitter/follow/3mr5aledoffical?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/3mr5aled/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
   <a href="https://api.daily.dev/3mr5aled" target="_blank">
     <img
       width="256"
@@ -48,10 +36,16 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,arduino,vscode,netlify,github&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,arduino,vscode,netlify,github&perline=5)](https://skillicons.dev)
 
 ----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3mr-5aled&theme=transparent&show_icons=true)
+<a href="http://www.github.com/3mr-5aled"><img src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="3mr-5aled's GitHub stats" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=3mr-5aled&theme=algolia&hide_border=true&border_radius=11.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="http://www.github.com/3mr-5aled"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3mr-5aled&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+----
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/3mr5aled"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

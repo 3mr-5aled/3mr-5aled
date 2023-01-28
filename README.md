@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://3mr5aled.netlify.app/)
 
-- 💬 Ask me about **HTML , CSS , Javascript**
+- 💬 Ask me about **HTML , CSS , Javascript , Bootstrap , Pugjs , Gulpjs**
 
 - 📫 How to reach me [here](https://3mr5aled.netlify.app/#contact)
 
@@ -36,7 +36,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,arduino,vscode,netlify,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,pug,arduino,vscode,netlify,github&perline=5&theme=dark)](https://skillicons.dev)
 
 ----
 

@@ -36,7 +36,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,figma,pug,arduino,vscode,netlify,github&perline=4&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,figma,pug,arduino,vscode,netlify,github,wordpress&perline=4&theme=dark)](https://skillicons.dev)
 
 ----
 

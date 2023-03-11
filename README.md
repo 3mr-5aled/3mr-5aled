@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://3mr5aled.netlify.app/)
 
-- 💬 Ask me about **HTML , CSS , Javascript , Bootstrap , Pugjs , Gulpjs**
+- 💬 Ask me about **HTML , CSS , Javascript , Bootstrap , Sass , Pugjs , Gulpjs**
 
 - 📫 How to reach me [here](https://3mr5aled.netlify.app/#contact)
 

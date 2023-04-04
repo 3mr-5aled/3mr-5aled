@@ -16,7 +16,7 @@
 
 <div>
 
-- 🔭 I’m currently working on [Quota calc](https://quotacalc.netlify.app/)
+- 🔭 I’m currently working on [Tomory](#)
 
 - 🌱 I’m currently learning **Next js , Typescript**
   

@@ -18,11 +18,13 @@
 
 - 🔭 I’m currently working on [Quota calc](https://quotacalc.netlify.app/)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js , Typescript**
+  
+- 👯 I’m looking to collaborate on  Helpful and Islamic Projects
 
 - 👨‍💻 All of my projects are available at [My Website](https://3mr5aled.netlify.app/)
 
-- 💬 Ask me about **HTML , CSS , Javascript , Bootstrap , Sass , Pugjs , Gulpjs**
+- 💬 Ask me about **React js , Tailwind css , HTML , CSS , Javascript , Bootstrap , Sass , Pugjs , Gulpjs**
 
 - 📫 How to reach me [here](https://3mr5aled.netlify.app/#contact)
 
@@ -36,7 +38,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,pug,figma,tailwind,bootstrap,sass,webpack,vite,gulp,git,arduino,vscode,netlify,github,wordpress&perline=6&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,pug,figma,tailwind,redux,firebase,bootstrap,sass,webpack,vite,gulp,git,arduino,vscode,netlify,github,wordpress&perline=6&theme=dark)](https://skillicons.dev)
 
 ----
 

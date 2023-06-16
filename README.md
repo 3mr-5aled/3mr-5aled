@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
-<h3 align="center">A passionate frontend developer and designer from Egypt</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+Front-End+Web+developer;A+passionate+Designer;Muslim+and+Egyptian)](https://git.io/typing-svg)
 
 
 ----

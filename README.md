@@ -39,7 +39,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,pug,figma,tailwind,redux,firebase,bootstrap,sass,webpack,vite,gulp,git,arduino,vscode,netlify,github,wordpress&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,pug,figma,tailwind,redux,nextjs,typescript,firebase,bootstrap,sass,webpack,vite,gulp,git,arduino,vscode,netlify,github,wordpress&perline=5&theme=dark)](https://skillicons.dev)
 
 ----
 

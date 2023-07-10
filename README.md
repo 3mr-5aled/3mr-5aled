@@ -17,11 +17,11 @@
 
 <div>
 
-- 🔭 I’m currently working on [Tomory](https://tomory.vercel.app/)
+- 🔭 I’m currently working on [Fnan]([https://tomory.vercel.app/](https://fnan-dribble-clone.vercel.app/))
 
-- 🌱 I’m currently learning **Next js , Typescript**
+- 🌱 I’m currently learning **Express , MongoDB, Node.js, GraphQl**
   
-- 👯 I’m looking to collaborate on  Helpful and Islamic Projects
+- 👯 I’m looking to collaborate on Helpful and Islamic Projects
 
 - 👨‍💻 All of my projects are available at [My Website](https://3mr5aled.netlify.app/)
 

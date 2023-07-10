@@ -19,13 +19,13 @@
 
 - 🔭 I’m currently working on [Fnan]([https://tomory.vercel.app/](https://fnan-dribble-clone.vercel.app/))
 
-- 🌱 I’m currently learning **Express , MongoDB, Node.js, GraphQl**
+- 🌱 I’m currently learning **Express , MongoDB, Node.js, GraphQL**
   
 - 👯 I’m looking to collaborate on Helpful and Islamic Projects
 
 - 👨‍💻 All of my projects are available at [My Website](https://3mr5aled.netlify.app/)
 
-- 💬 Ask me about **React js , Tailwind css , Javascript**
+- 💬 Ask me about **Next js , Tailwind css , Typescript**
 
 - 📫 How to reach me [here](https://3mr5aled.netlify.app/#contact)
 

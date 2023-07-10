@@ -17,7 +17,7 @@
 
 <div>
 
-- 🔭 I’m currently working on [Fnan]([https://tomory.vercel.app/](https://fnan-dribble-clone.vercel.app/))
+- 🔭 I’m currently working on [Fnan](https://fnan-dribble-clone.vercel.app/)
 
 - 🌱 I’m currently learning **Express , MongoDB, Node.js, GraphQL**
   

@@ -51,7 +51,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,pug,figma,tailwind,redux,nextjs,typescript,firebase,bootstrap,sass,webpack,vite,gulp,git,arduino,vscode,vercel,netlify,github,wordpress,docker,bash&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cpp,react,pug,figma,tailwind,redux,nextjs,firebase,bootstrap,sass,webpack,vite,gulp,git,arduino,vscode,vercel,netlify,github,wordpress,docker,bash&perline=5&theme=dark)](https://skillicons.dev)
 
 ----
 

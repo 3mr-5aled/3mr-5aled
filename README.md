@@ -5,9 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+Front-End+Web+developer;A+passionate+Designer;Muslim+and+Egyptian)](https://git.io/typing-svg)
 
 
-
-
-----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
 <!--   <a href="https://api.daily.dev/3mr5aled" target="_blank">
@@ -33,6 +31,7 @@
 <ul align="center" style="list-style: none">
 <summary>
 <h1> 
+    <img src="https://media.lordicon.com/icons/wired/outline/680-it-developer.gif" width="35">
 About
 </h1>   
 </summary>
@@ -57,7 +56,7 @@ About
 
 </div>
 
-----
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 <div align="left">
@@ -65,24 +64,71 @@ About
 <ul style="list-style: none">
 <summary>
 <h1> 
-Skills
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 </h1>   
 </summary>
 </ul>
 </div>
 
+<div align="left">
     
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,python,sass,tailwind,bootstrap,git,github,docker,nextjs,react,redux,webpack,vite,gulp,pug,vercel,netlify,mongo,graphql,firebase,supabase,wordpress,bash,vscode,visualstudio,figma&perline=6&theme=dark)](https://skillicons.dev)
+<div id="toc">
+<ul align="left" style="list-style: none">
+<summary>
+<h3> 
+<img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/HEAD/src/programming-languages.gif" width="35"><b> Programming Languages: </b>
+</h3>   
+</summary>
+</ul>
+</div>
+
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,python&perline=6&theme=dark)](https://skillicons.dev)
+
+</div>
+<div align="left">
+    
+<div id="toc">
+<ul align="left" style="list-style: none">
+<summary>
+<h3> 
+<img src="https://cdn-icons-gif.flaticon.com/8722/8722555.gif" width="35"><b> Frontend Web Development: </b>
+</h3>   
+</summary>
+</ul>
+</div>
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,sass,tailwind,bootstrap,webpack,vite,gulp,pug,vercel,netlify,mongo,graphql,firebase,supabase,wordpress&perline=10&theme=dark)](https://skillicons.dev)
+
+
+<div align="left">
+    
+<div id="toc">
+<ul align="left" style="list-style: none">
+<summary>
+<h3> 
+<img src="https://cdn-icons-gif.flaticon.com/8629/8629195.gif" width="35"><b> Tools & Software: </b>
+</h3>   
+</summary>
+</ul>
+</div>
+
+    
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,bash,vscode,visualstudio,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<br>
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+<div>
+    
 <div id="toc">
 <ul align="center" style="list-style: none">
 <summary>
 <h1> 
-Status 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 </h1>   
 </summary>
 </ul>
@@ -95,8 +141,37 @@ Status
 
 <br>
 
+</div>
+
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<div align="center">
+    
+<div id="toc">
+<ul align="center" style="list-style: none">
+<summary>
+<h1> 
+<img src="https://cdn-icons-gif.flaticon.com/13311/13311710.gif" width="35"><b> Github Trophies </b>
+</h1>   
+</summary>
+</ul>
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=3mr-5aled)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+</div>
 
 
+
+
+
+
+
+<!-- <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<div>
+    
 <div id="toc">
 <ul align="center" style="list-style: none">
 <summary>
@@ -112,3 +187,5 @@ Support me
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
   </a> 
 </div>
+
+</div> -->

@@ -9,7 +9,7 @@
 
 ----
 
-<div align="left">
+<div>
 <!--   <a href="https://api.daily.dev/3mr5aled" target="_blank">
     <img
       width="256"
@@ -19,7 +19,7 @@
   </a> -->
   <a href="https://app.daily.dev/3mr5aled" target="_blank">
     <img 
-      width="356"
+      width="365"
       align="right"
       src="https://api.daily.dev/devcards/v2/PernhF2lp.png?r=dxt&type=default"
       alt="Amr Khaled's Dev Card"
@@ -28,6 +28,16 @@
 </div>
 
 <div>
+
+<div id="toc">
+<ul align="center" style="list-style: none">
+<summary>
+<h1> 
+About
+</h1>   
+</summary>
+</ul>
+</div>
 
 - 🔭 I’m currently working on [Fnan](https://fnan-dribble-clone.vercel.app/)
 
@@ -49,18 +59,56 @@
 
 ----
 
-### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cpp,react,pug,figma,tailwind,redux,nextjs,firebase,bootstrap,sass,webpack,vite,gulp,git,arduino,vscode,vercel,netlify,github,wordpress,docker,bash&perline=5&theme=dark)](https://skillicons.dev)
+<div align="left">
+<div id="toc">
+<ul style="list-style: none">
+<summary>
+<h1> 
+Skills
+</h1>   
+</summary>
+</ul>
+</div>
 
-----
+    
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,python,sass,tailwind,bootstrap,git,github,docker,nextjs,react,redux,webpack,vite,gulp,pug,vercel,netlify,mongo,graphql,firebase,supabase,wordpress,bash,vscode,visualstudio,figma&perline=6&theme=dark)](https://skillicons.dev)
 
-<a href="http://www.github.com/3mr-5aled"><img src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="3mr-5aled's GitHub stats" /></a>
+</div>
 
-<a href="http://www.github.com/3mr-5aled"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3mr-5aled&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br>
 
-----
+<div id="toc">
+<ul align="center" style="list-style: none">
+<summary>
+<h1> 
+Status 
+</h1>   
+</summary>
+</ul>
+</div>
 
-### Support Me
+<a href="http://www.github.com/3mr-5aled"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="3mr-5aled's GitHub stats" /></a>
 
-<a href="https://www.buymeacoffee.com/3mr5aled"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<a href="http://www.github.com/3mr-5aled"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=3mr-5aled&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<br>
+
+
+
+<div id="toc">
+<ul align="center" style="list-style: none">
+<summary>
+<h1> 
+Support me
+</h1>   
+</summary>
+</ul>
+</div>
+
+<div align="center"> 
+  <a href="https://www.buymeacoffee.com/3mr5aled">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+  </a> 
+</div>

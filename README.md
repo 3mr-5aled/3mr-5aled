@@ -43,7 +43,7 @@ About
 </ul>
 </div>
 
-- 🔭 I’m currently working on [Fnan](https://fnan-dribble-clone.vercel.app/)
+- 🔭 I’m currently working on [Home-Champion](https://github.com/3mr-5aled/Home-Champion)
 
 - 🌱 I’m currently learning **Express , MongoDB, Node.js, GraphQL**
   
@@ -57,7 +57,7 @@ About
 
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/3mr5aled/)
 
-- ⚡ Fun fact **I don't like cheese**
+- ⚡ Fun fact **I don't like cheese 🧀**
 
 </div>
 

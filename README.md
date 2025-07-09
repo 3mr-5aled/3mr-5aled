@@ -49,11 +49,11 @@ About
   
 - 👯 I’m looking to collaborate on Helpful and Islamic Projects
 
-- 👨‍💻 All of my projects are available at [My Website](https://3mr5aled.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Website](https://3mr5aled.vercel.app/)
 
 - 💬 Ask me about **Next js , Tailwind css , Typescript**
 
-- 📫 How to reach me [here](https://3mr5aled.netlify.app/#contact)
+- 📫 How to reach me [here](https://3mr5aled.vercel.app/#contact)
 
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/3mr5aled/)
 

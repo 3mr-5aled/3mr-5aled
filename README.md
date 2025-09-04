@@ -22,7 +22,7 @@
   </a> -->
   <a href="https://app.daily.dev/3mr5aled" target="_blank">
     <img 
-      width="365"
+     width="312"
       align="right"
       src="https://api.daily.dev/devcards/v2/PernhF2lp.png?r=dxt&type=default"
       alt="Amr Khaled's Dev Card"

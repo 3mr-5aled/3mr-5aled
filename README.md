@@ -140,10 +140,10 @@ About
 </ul>
 </div>
 
-<a href="http://www.github.com/3mr-5aled"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="3mr-5aled's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/3mr-5aled"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=3mr-5aled&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="3mr-5aled's GitHub stats" /></a> -->
 
 
-<a href="http://www.github.com/3mr-5aled"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=3mr-5aled&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/3mr-5aled"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mr-5aled&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <br>
 
@@ -151,9 +151,10 @@ About
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+<!--
 <div align="center">
     
-<div id="toc">
+ <div id="toc">
 <ul align="center" style="list-style: none">
 <summary>
 <h1> 
@@ -167,7 +168,7 @@ About
 
 <br>
 
-</div>
+</div> -->
 
 
 

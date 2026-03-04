@@ -20,14 +20,15 @@
       src="https://api.daily.dev/devcards/f56e083a43464fbe9926244094772702.png?r=phq"
     />
   </a> -->
-  <a href="https://app.daily.dev/3mr5aled" target="_blank">
+  <!-- <a href="https://app.daily.dev/3mr5aled" target="_blank">
     <img 
      width="312"
       align="right"
       src="https://api.daily.dev/devcards/v2/PernhF2lp.png?r=dxt&type=default"
       alt="Amr Khaled's Dev Card"
       />
-  </a>
+  </a> -->
+    <a href="https://majara.dev/u/3mr5aled"><img  align="right" src="https://majara.dev/api/majara-dev-card/og?user=3mr5aled" width="440" alt="Amr Khaled Morcy's Majara Dev Card"/></a>
 </div>
 
 <div>

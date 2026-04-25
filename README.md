@@ -40,7 +40,8 @@
 <td valign="top" width="40%" align="center">
 
 <a href="https://majara.dev/u/3mr5aled">
-  <img src="https://majara.dev/api/majara-dev-card/og?user=3mr5aled" width="100%" alt="Amr Khaled Morcy's Majara Dev Card"/>
+  <!-- <img src="https://majara.dev/api/majara-dev-card/og?user=3mr5aled" width="100%" alt="Amr Khaled Morcy's Majara Dev Card"/> -->
+  <a href="https://majara.dev/u/3mr5aled"><img src="https://majara.dev/api/majara-dev-card/og?user=3mr5aled&layout=vertical&theme=dark&accent=cyan" width="440" alt="Amr Khaled Morcy's Majara Dev Card"/></a>
 </a>
 
 </td>

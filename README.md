@@ -85,7 +85,7 @@
 | [🎓 Darsy LMS](https://darsy-lms.vercel.app) | Full-featured LMS with admin dashboard, Paymob payments, quizzes & memberships | Next.js · TypeScript · MongoDB · AWS S3 | 🟢 Live |
 | [🏠 Home Champion](https://home-champion.vercel.app) | Family chore tracker — earn points, redeem rewards | Next.js · TypeScript · Supabase · DaisyUI | 🟢 Live |
 | [📚 MrKhaledMorcy](https://mr-khaled-morcy.vercel.app) | Educational platform with live & recorded English lessons | Next.js · TypeScript · Supabase | 🟢 Live |
-| [🛒 Tomory](https://tomory-ecommerce.vercel.app) | E-commerce storefront for premium Middle Eastern dates | React · Redux · Firebase | 🟢 Live |
+| [🛒 Tomory](https://tomory.vercel.app) | E-commerce storefront for premium Middle Eastern dates | React · Redux · Firebase | 🟢 Live |
 | [🌙 Ramadan Overlay](https://github.com/3mr-5aled/ramadan-overlay) | Lightweight Ramadan-themed UI overlay for websites with customizable visuals and easy integration | Typescript · CSS · Web Components | ✅ Done |
 | [🏥 Hospital API](https://github.com/3mr-5aled/Hospital-API) | RESTful API with JWT auth, RBAC (Admin/Doctor/Patient) | Node.js · Express · MongoDB · JWT | ✅ Done |
 | [⚡ PromptVault](https://github.com/3mr-5aled/prompt-library) | Offline-first desktop AI prompt manager, sub-100ms startup | Tauri · Rust · React · SQLite | ✅ Done |

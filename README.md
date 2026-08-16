@@ -7,7 +7,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=header&text=Amr%20Morcy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Fullstack%20Developer&descAlignY=58&descAlign=50" width="100%"/> -->
 
 <a href="https://github.com/3mr-5aled/">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amr%20Khaled%20Morcy&textBg=false&desc=Full%20Stack%20Web%20Engineer&descAlign=50&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amr%20Khaled%20Morcy&textBg=false&fontColor=FFFFFF&desc=Full%20Stack%20Web%20Engineer&descAlign=50&descAlignY=65&animation=fadeIn" width="100%"/>
 </a>
 
 

@@ -33,7 +33,7 @@
 - 🤝 Looking to collaborate on **Helpful** and **Islamic** Projects
 - 🌱 Currently expanding into: **Cloud Engineering**, **AI tooling**
 - 💬 Ask me about: **Next.js · TypeScript · Tailwind CSS · Express.js · Supabase**
-- 📫 Reach me: [3mr5aled.vercel.app/#contact](https://3mr5aled.vercel.app/#contact)
+- 📫 Reach me: [Contact](https://3mr5aled.vercel.app/#contact)
 - ⚡ Fun fact: I don't like cheese 🍕❌🧀
 
 </td>

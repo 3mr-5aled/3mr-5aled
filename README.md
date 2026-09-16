@@ -126,7 +126,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&desc=Build%20things%20that%20matter" width="100%" height=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&fontColor=FFFFFF&desc=Build%20things%20that%20matter" width="100%" height=""/>
 
 <br/>
 

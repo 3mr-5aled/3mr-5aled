@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/3mr-5aled/">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amr%20Khaled%20Morcy&textBg=false&fontColor=FFFFFF&desc=Full%20Stack%20%26%20Backend%20AI%20Engineer&descAlign=50&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amr%20Khaled%20Morcy&textBg=false&fontColor=FFFFFF&desc=Full%20Stack%20-%20Backend%20AI%20Engineer&descAlign=50&descAlignY=65&animation=fadeIn" width="100%"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&size=22&pause=1000&color=14b8a6&width=750&lines=Full-Stack+%26+Backend+AI+Engineer;Next.js+%7C+TypeScript+%7C+Node.js+%7C+Google+Gemini;FlyRank+AI+Internship+Graduate+%F0%9F%9B%A1%EF%B8%8F;Building+intelligent+systems+that+make+an+impact;Muslim+%F0%9F%95%8C+%7C+Egyptian+%F0%9F%87%AA%F0%9F%87%AC+%7C+Cairo)](https://git.io/typing-svg)
